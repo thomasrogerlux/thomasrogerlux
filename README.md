@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👀
+
+I'm a software engineer based in Paris, France 🥖  
+Mainly working on DevOps and Web challenges 🚀
+
+You can learn more about me through my [website](https://thomasrogerlux.dev) or you can contact me by [email](mailto:thomas@rogerlux.dev)
 
 <!--
 **thomasrogerlux/thomasrogerlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
