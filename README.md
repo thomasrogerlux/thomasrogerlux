@@ -1,7 +1,7 @@
 ### Hello there 👀
 
 I'm a software engineer based in Paris, France 🥖  
-Mainly working on DevOps and Web challenges 🚀
+Discovering the crypto world and what's behind Web 3.0 🚀
 
 You can learn more about me through my [website](https://thomasrogerlux.dev) or you can contact me by [email](mailto:thomas@rogerlux.dev)
 
